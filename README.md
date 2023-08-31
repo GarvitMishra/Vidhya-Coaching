@@ -22,7 +22,7 @@ The Vidhya Coaching Institute website serves as an online platform to showcase t
 
 ## How to Access the Website
 
-You can access the Vidhya Coaching Institute website by visiting [https://www.vidhyacoaching.com]
+You can access the Vidhya Coaching Institute website by visiting (https://garvitmishra.github.io/vidhya-coaching/)
 
 ## Contributing
 
